@@ -1,0 +1,24 @@
+.encabezado{
+    width: 100%;
+    background-color: #e0b08c;
+    border-bottom: solid 10px #eedcce;
+}
+.menu {
+    margin: -8px;
+    padding: 10px;
+    display:flex;
+    list-style: none;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    height: 10rem;
+    display: flex;
+}
+
+.menu li{
+    font-weight: 700;
+    padding: .5rem;
+    text-align: center;
+}
